@@ -37,7 +37,12 @@
     {
       "value": "klasse_Insecta__Insecten",
       "label": "Insecten",
-      "children": [ ]
+      "children": [
+        {
+          "value": "blaat",
+          "label": "blaat"
+        }
+      ]
     }
   ]
 }
