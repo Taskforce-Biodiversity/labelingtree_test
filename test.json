@@ -9,7 +9,7 @@
         {
           "value": "superorde_Acariformes__Mijten",
           "label": "Mijten",
-          "children": []
+          "children": []          // ← REQUIRED even for a leaf
         }
       ]
     }
