@@ -1,17 +1,28 @@
 {
-  "name": "species",
-  "label": "Insect taxonomy",
-  "nodes": [
+  "items": [
     {
       "value": "klasse_Arachnida__Spinachtigen",
-      "label": "Spinachtigen",
+      "alias": "Arachnida | Spinachtigen",
+      "isLeaf": false,
       "children": [
         {
-          "value": "superorde_Acariformes__Mijten",
-          "label": "Mijten",
-          "children": []
+          "value": "orde_Araneae__Echte-spinnen",
+          "alias": "Araneae | Echte-spinnen",
+          "isLeaf": false,
+          "children": [
+            {
+              "value": "familie_Anyphaenidae__Buisspinnen",
+              "alias": "Anyphaenidae | Buisspinnen",
+              "isLeaf": true
+            }
+          ]
         }
       ]
+    },
+    {
+      "value": "klasse_Insecta__Insecten",
+      "alias": "Insecta | Insecten",
+      "isLeaf": true
     }
   ]
 }
