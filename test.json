@@ -9,38 +9,6 @@
         {
           "value": "superorde_Acariformes__Mijten",
           "label": "Mijten"
-        },
-        {
-          "value": "orde_Araneae__Echte-spinnen",
-          "label": "Echte-spinnen",
-          "children": [
-            {
-              "value": "familie_Anyphaenidae__Buisspinnen",
-              "label": "Buisspinnen",
-              "children": [
-                {
-                  "value": "geslacht_Anyphaena__",
-                  "label": "Anyphaena",
-                  "children": [
-                    {
-                      "value": "Anyphaena-accentuata__Struikspin",
-                      "label": "Struikspin"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "value": "klasse_Insecta__Insecten",
-      "label": "Insecten",
-      "children": [
-        {
-          "value": "blaat",
-          "label": "blaat"
         }
       ]
     }
